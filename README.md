@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mukhammad 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/IslamovMukhammad/mukhammad/blob/main/vid.gif" alt="Hi, I'm Mukhammad 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <h2 align="center">Hello! Welcome to Mukhammad's Github page <img src="https://github.com/intellisoftuz/intellisoftuz/blob/main/wave.gif?raw=true" width="30px"/></h2>
