@@ -6,21 +6,21 @@
       <td>
          <h2><a href="https://t.me/iMacBro"><img align="center" src="https://github.com/IslamovMukhammad/mukhammad/blob/main/oie_png-2.png%20for%20github.png?raw=true" width="600px"/></a></h2>
          <p align="center">
-         - 🔭 I'm currently working on <strong>Android Development</strong> -
+         - 🔭 I'm currently working on <strong>iOS Development</strong> -
          <br/>
          - 🌱 And I'm currently learning <strong>VR and AR</strong> -
          <br/>
-         - 💬 Ask me about <strong>Java, Kotlin, Android, Firebase, TensorFlow, JavaScript, Python, C++, C# and Html, CSS</strong> -
+         - 💬 Ask me about <strong>iOS, Swift, SwiftUI, UIKit, C++, Java, Python, C++ and Html, CSS</strong> -
          <br/>
-         - 📫 How to reach me: <a href="https://t.me/thisisbahhtee">Baxtiyor</a> on Telegram -
+         - 📫 How to reach me: <a href="https://t.me/iCe1m">Mukhammad</a> on Telegram -
          <br/>
          </p>
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elboyev&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamovmukhammad&theme=radical&hide_border=true" />
          </p>  
          <p align="center">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=elboyev&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=juicyfresh&no-bg=true&no-frame=true"/>
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=islamovmukhammad&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=juicyfresh&no-bg=true&no-frame=true"/>
          </p>
       </td>
       <td >
@@ -29,11 +29,11 @@
          <p align="left"> 
            <img align="center" src="https://badgen.net/github/license/Naereen/Strapdown.js" alt="licence" /> 
 <!--     visitors         -->
-           <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=elboyev.visitor-badge" alt="bahhtee's visitors" />
+           <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=islamovmukhammad.visitor-badge" alt="Mukhammad's visitors" />
 <!--     visitors         -->
             </p>
-         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=elboyev&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br><br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=elboyev&theme=radical&show_icons=true&hide_border=true" />
+         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=islamovmukhammad&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br><br/>
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=islamovmukhammad&theme=radical&show_icons=true&hide_border=true" />
           <br/><br/>
 <!--                   <p align="center">
                     <a href="https://guilyx.vercel.app/api/now-playing?open">
