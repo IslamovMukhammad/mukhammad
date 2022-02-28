@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=500&section=header&text=Mukhammad%20Islamov&fontSize=65&animation=fadeIn&fontAlignY=38&desc=We%20turn%20great%20ideas%20into%20outstanding%20products!&descAlignY=55&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Mukhammad%20Islamov&fontSize=65&animation=fadeIn&fontAlignY=38&desc=We%20turn%20great%20ideas%20into%20outstanding%20products!&descAlignY=55&descAlign=62)
 <h2 align="center">Hello! Welcome to Mukhammad's Github page <img src="https://github.com/intellisoftuz/intellisoftuz/blob/main/wave.gif?raw=true" width="30px"/></h2>
 
 <p align="center">
 <table align="center">
    <tr >
       <td>
-         <h2><a href="https://t.me/iMacBro"><img align="center" src="https://github.com/IslamovMukhammad/mukhammad/blob/main/oie_png-3.png?raw=true" width="600px"/></a></h2>
+         <h2><a href="https://t.me/iMacBro"><img align="center" src="https://github.com/IslamovMukhammad/mukhammad/blob/main/oie_png-4.png?raw=true" width="600px"/></a></h2>
          <p align="center">
          - 🔭 I'm currently working on <strong>iOS Development</strong> -
          <br/>
