@@ -4,7 +4,7 @@
 <table align="center">
    <tr >
       <td>
-         <h2><a href="https://t.me/iMacBro"><img align="center" src="https://github.com/IslamovMukhammad/mukhammad/blob/main/oie_png-2.png%20for%20github.png?raw=true" width="600px"/></a></h2>
+         <h2><a href="https://t.me/iMacBro"><img align="center" src="https://github.com/IslamovMukhammad/mukhammad/blob/main/oie_png-3.png%20for%20github.png?raw=true" width="600px"/></a></h2>
          <p align="center">
          - 🔭 I'm currently working on <strong>iOS Development</strong> -
          <br/>
