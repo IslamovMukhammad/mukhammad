@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IslamovMukhammad/mukhammad/blob/main/vid.gif" alt="Hi, I'm Mukhammad 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/IslamovMukhammad/mukhammad/blob/main/vid-2.gif" alt="Hi, I'm Mukhammad 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
 
 <h2 align="center">Hello! Welcome to Mukhammad's Github page <img src="https://github.com/intellisoftuz/intellisoftuz/blob/main/wave.gif?raw=true" width="30px"/></h2>
@@ -11,8 +11,6 @@
          <h2><a href="https://t.me/iMacBro"><img align="center" src="https://github.com/IslamovMukhammad/mukhammad/blob/main/oie_png-4.png?raw=true" width="600px"/></a></h2>
          <p align="center">
          - 🔭 I'm currently working on <strong>iOS Development</strong> -
-         <br/>
-         - 🌱 And I'm currently learning <strong>VR and AR</strong> -
          <br/>
          - 💬 Ask me about <strong>iOS, Swift, SwiftUI, UIKit, C++, Java, Python, C++ and Html, CSS</strong> -
          <br/>
@@ -45,7 +43,7 @@
                     </a>
                   </p> -->
          <h1>Now Playing</h1>
-         <a href="https://open.spotify.com/user/3yl5bzt59cm4m0e2c83j62lv5"><img align="center" src="https://github-readme-remake.vercel.app/api/spotify" alt="music" /> 
+         <a href="https://open.spotify.com/playlist/11rPoo6wkE9QhWpu6GrmJl"><img align="center" src="https://github-readme-remake.vercel.app/api/spotify" alt="music" /> 
       </td>
    </tr>
 </table>
